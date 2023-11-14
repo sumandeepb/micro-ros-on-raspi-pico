@@ -1,0 +1,1 @@
+docker rm -f ros2_pico_env
