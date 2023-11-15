@@ -1,1 +1,1 @@
-docker exec -it -w /root/workspace ros2_pico_env /bin/bash
+docker exec -it -w /home/user/workspace ros2_pico_env /bin/bash
