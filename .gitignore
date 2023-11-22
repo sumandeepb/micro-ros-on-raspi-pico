@@ -195,6 +195,7 @@ cython_debug/
 #.idea/
 
 # ros2
+firmware/
 install/
 log/
 bag_files/
