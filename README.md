@@ -11,3 +11,10 @@ ROS2 on Raspberry PI 4B with MicroROS on Pico W Examples
 `./docker-bash.sh` - Shell access into the container instance.
 
 `./docker-kill.sh`- Force stop container instance. Remove container from memory.
+
+## Build Example
+
+```
+cd custom_message_example
+./build.sh
+```
