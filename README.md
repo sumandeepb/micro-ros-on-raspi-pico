@@ -15,6 +15,7 @@ ROS2 on Raspberry PI 4B with MicroROS on Pico W Examples
 ## Build Example
 
 ```
+git submodule update --init --remote --recursive
 cd custom_message_example
 ./build.sh
 ```
